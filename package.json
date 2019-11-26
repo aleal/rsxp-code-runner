@@ -1,0 +1,16 @@
+{
+  "name": "api-serverless",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "serverless.com",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "serverless-google-cloudfunctions": "*",
+    "totalvoice-node": "^1.8.0"
+  }
+}
